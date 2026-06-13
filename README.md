@@ -76,3 +76,6 @@ Documentamos los parametros antes de liberar 5gb de ram
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
 
+
+Gracias por visitame. Saludos 
+
