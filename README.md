@@ -78,7 +78,9 @@ Documentamos los parametros antes de liberar 5gb de ram
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
 
-
+💼 LinkedIn: Horacio Marcelo Nuñez (Podés sumar tu enlace aquí más adelante)
+📬 Correo Electrónico: marcelonh86@gmail.com
+🚀 GitHub: @MarceloNunez-NOC
 
 Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red.
 
