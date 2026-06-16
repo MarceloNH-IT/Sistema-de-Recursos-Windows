@@ -82,7 +82,7 @@ Documentamos los parametros antes de liberar 5gb de ram
 
 📬 Correo Electrónico: marcelonh86@gmail.com
 
-🚀 GitHub: @MarceloNunez-NOC
+🚀 GitHub: @MarceloNH-IT
 
 Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red.
 
