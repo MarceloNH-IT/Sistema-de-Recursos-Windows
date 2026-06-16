@@ -66,6 +66,8 @@ El Administrador de tareas permite monitorear en tiempo real:
 Este README muestra un **informe técnico completo** con capturas y análisis, ideal para tu portafolio profesional en GitHub.
 Documentamos los parametros antes de liberar 5gb de ram 
 
+![Memoria](FotoNOC.jpg)
+
 ## 📈 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
