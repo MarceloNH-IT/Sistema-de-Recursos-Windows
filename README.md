@@ -69,10 +69,12 @@ Documentamos los parametros antes de liberar 5gb de ram
 ![Memoria](FotoNOC.jpg)
 
 ## 📈 Estadísticas de GitHub
+![Configuración del Adaptador de Red Puente](FotoNOC.jpg)
+## 🤝 Conclusión y Contacto
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
 
